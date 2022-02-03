@@ -3,9 +3,10 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${kkumar-gcc}.${your.repo.id})
 
 [![Krishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkumar-gcc&&show_icons=true)](https://github.com/kkumar-gcc)
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkumar-gcc&layout=compact)](https://github.com/kkumar-gcc)
-
-[![Krishan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kkumar-gcc)](https://github.com/kkumar-gcc)
+<!-- 
+[![Krishan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kkumar-gcc)](https://github.com/kkumar-gcc) -->
 <br>
 ### Tech & Tools Preference 💻
 ---
@@ -36,8 +37,5 @@
 <!-- <img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF"> -->
 ### Other Languages I know
 <img src="http://img.shields.io/badge/-Php-F89820?style=flat&logo=php&logoColor=white"> <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white">
-
 ---
-![](https://github.com/kkumar-gcc/github-stats/blob/master/generated/languages.svg)
-<p align="center"><img src="https://profile-counter.glitch.me/{kkumar-gcc}/count.svg" alt="kkumar-gcc:: Visitor's Count" /></p>
 

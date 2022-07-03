@@ -1,5 +1,5 @@
-### Hi there 👋
-
+<h1 align="center"> Hi 👋🏻, I'm Krishan Kumar </br> 
+</h1>
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${kkumar-gcc}.${your.repo.id})
 
 [![Krishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkumar-gcc&&show_icons=true)](https://github.com/kkumar-gcc)

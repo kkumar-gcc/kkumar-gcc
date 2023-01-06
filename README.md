@@ -27,7 +27,7 @@
 <img src="https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white">
 <br>
 #### JS Framework/Library
-<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white"> <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white"> <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/AngularJS-E23237?style=flat&logo=angularjs&logoColor=white">
 <br>
 #### Database/State
 <img src="https://img.shields.io/badge/-Firebase-000?style=flat&logo=firebase"> <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">

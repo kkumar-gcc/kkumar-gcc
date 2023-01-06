@@ -45,6 +45,9 @@
 #### Package Manager
 <img src="https://img.shields.io/badge/Npm-CC3534?style=flat&logo=npm&logoColor=FFFFFF">
 
+#### App Development
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white">
+
 #### Version Control 
 <img src="https://img.shields.io/badge/Git-F1502F?style=flat&logo=git&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/Github-000000?style=flat&logo=github&logoColor=FFFFFF">
 <br>

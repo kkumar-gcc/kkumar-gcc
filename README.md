@@ -1,6 +1,3 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=${kkumar-gcc}.${your.repo.id})
-</br>
-
 
 <h1 align="center"> Hi 👋🏻, I'm Krishan Kumar </br> 
 </h1>

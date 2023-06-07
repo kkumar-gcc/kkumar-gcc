@@ -1,11 +1,19 @@
-
-<h1 align="center"> Hi 👋🏻, I'm Krishan Kumar </br> 
-</h1>
+<h1 align="center"> Hi 👋🏻, I'm Krishan Kumar </h1>
 
 <br />
 
+## About Me
+- Passionate developer fueled by coffee and the desire to code better than yesterday. ☕💻
+- Venturing into the world of coding to create wonders that make you go "Wow!"
+- Constantly learning new tech because I don't want to be outrun by a sloth on a turtle. 🐢⚡
+- Problem-solving skills so sharp, I can slice through bugs like a ninja chef. 🥷🔪
+- Team player and communicator extraordinaire. I speak both human and binary fluently. 🗣️🤖
+- Attention to detail? You bet! My code is cleaner than Mr. Clean's shiny bald head. ✨🧼
+- Adaptable and ready for any challenge. I bend technology like a contortionist in a circus. 🤸‍♂️💪
+
+
 ## Projects
-<p align="center"> workng on this section </p>
+<p align="center"> working on this section </p>
 <br />
 
 ## GitHub Stats 📊
@@ -14,42 +22,39 @@
 
 ## Tech & Tools Preference 💻
 #### Languages
-<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
-<img src="http://img.shields.io/badge/-Php-F89820?style=flat&logo=php&logoColor=white"> <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff">
-<img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white">
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff)
+![PHP](https://img.shields.io/badge/-Php-F89820?style=flat&logo=php&logoColor=white) ![C++](https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
 <br>
 #### CSS Framework/Library/Pre-processors
-<img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white"> <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
-<img src="https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white">
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white)
 <br>
 #### JS Framework/Library
-<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white"> <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/AngularJS-E23237?style=flat&logo=angularjs&logoColor=white">
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![AngularJS](https://img.shields.io/badge/AngularJS-E23237?style=flat&logo=angularjs&logoColor=white)
 <br>
 #### Database/State
-<img src="https://img.shields.io/badge/-Firebase-000?style=flat&logo=firebase"> <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
+![Firebase](https://img.shields.io/badge/-Firebase-000?style=flat&logo=firebase) ![MongoDB](https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF)
+![MySQL](https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF)
 <br>
 #### Backend
-<img src="https://img.shields.io/badge/-NodeJs-3C873A?style=flat&logo=Node.js&logoColor=white"> <img src="https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express.js&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-Php-F89820?style=flat&logo=php&logoColor=white"> 
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white">
+![Node.js](https://img.shields.io/badge/-NodeJs-3C873A?style=flat&logo=Node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express.js&logoColor=FFFFFF) ![Php](https://img.shields.io/badge/-Php-F89820?style=flat&logo=php&logoColor=white) 
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 <br>
 #### Web Hosting
-<img src="https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white"> <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white">
-<img src="https://img.shields.io/badge/-Firebase-000?style=flat&logo=firebase">
-<img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white">
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-000?style=flat&logo=firebase)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
 <br>
 #### Package Manager
-<img src="https://img.shields.io/badge/Npm-CC3534?style=flat&logo=npm&logoColor=FFFFFF">
+![Npm](https://img.shields.io/badge/Npm-CC3534?style=flat&logo=npm&logoColor=FFFFFF)
 
 #### App Development
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white">
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 
 #### Version Control 
-<img src="https://img.shields.io/badge/Git-F1502F?style=flat&logo=git&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/Github-000000?style=flat&logo=github&logoColor=FFFFFF">
+![Git](https://img.shields.io/badge/Git-F1502F?style=flat&logo=git&logoColor=FFFFFF) ![GitHub](https://img.shields.io/badge/Github-000000?style=flat&logo=github&logoColor=FFFFFF)
 <br>
 #### Other Languages I know
- <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white">
----
-
-
+ ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white)

@@ -2,20 +2,6 @@
 
 <br />
 
-## About Me
-- Passionate developer fueled by coffee and the desire to code better than yesterday. ☕💻
-- Venturing into the world of coding to create wonders that make you go "Wow!"
-- Constantly learning new tech because I don't want to be outrun by a sloth on a turtle. 🐢⚡
-- Problem-solving skills so sharp, I can slice through bugs like a ninja chef. 🥷🔪
-- Team player and communicator extraordinaire. I speak both human and binary fluently. 🗣️🤖
-- Attention to detail? You bet! My code is cleaner than Mr. Clean's shiny bald head. ✨🧼
-- Adaptable and ready for any challenge. I bend technology like a contortionist in a circus. 🤸‍♂️💪
-
-
-## Projects
-<p align="center"> working on this section </p>
-<br />
-
 ## GitHub Stats 📊
 [![Krishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkumar-gcc&show_icons=true&theme=synthwave)](https://github.com/kkumar-gcc) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkumar-gcc&langs_count=8&theme=synthwave&layout=compact)](https://github.com/kkumar-gcc)
 <br>
@@ -38,6 +24,7 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-000?style=flat&logo=firebase) ![MongoDB](https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF)
 ![MySQL](https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF)
 <br>
+
 #### Backend
 ![Node.js](https://img.shields.io/badge/-NodeJs-3C873A?style=flat&logo=Node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express.js&logoColor=FFFFFF) ![Php](https://img.shields.io/badge/-Php-F89820?style=flat&logo=php&logoColor=white) 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
